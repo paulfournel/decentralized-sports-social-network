@@ -8,9 +8,10 @@ Currently strava has almost a monopoly as a sports social network, and over the 
 
 # Join the project
 
-We are a small team of product managers and developers. We need help to build this project. To join us, just click on this link:
+We are a small team of product managers and developers. We need help to build this project. 
 
-https://groups.google.com/forum/#!forum/decentralized-sports-social-network/join
+
+[Click to join us!](http://eepurl.com/iimWV9)
 
 ![alt text](pexels-andrea-piacquadio-3756042.jpg)
 
