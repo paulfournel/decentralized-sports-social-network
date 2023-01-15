@@ -12,3 +12,5 @@ We are a small team of product managers and developers. We need help to build th
 
 https://groups.google.com/forum/#!forum/decentralized-sports-social-network/join
 
+![alt text](pexels-andrea-piacquadio-3756042.jpg)
+
