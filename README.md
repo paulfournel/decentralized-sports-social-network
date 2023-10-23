@@ -6,6 +6,7 @@ This is an initiative to create a decentralized social network for athletes. We 
 
 Currently strava has almost a monopoly as a sports social network, and over the years has become more and more restrictives on the usage users can do with their data. We believe that users should have the right to control where their data is stored, how it is used, and with who it is shared.
 
+
 # Join the project
 
 We are a small team of product managers and developers. We need help to build this project. 
